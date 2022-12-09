@@ -7,4 +7,9 @@ No momento estou só fazendo a base sem o css, mas logo vou atulizar  a pagina e
 
 # ===================================== 
 
-# Meu Insta🌐: https://www.instagram.com/rafael.timoteo.r.h/
+# Site sobre Front-End | Parte:2 | Dia:2
+Hoje estou errando na entranda de imagens do codigo, faz muito tempo que mexo com html tenho que pratica mais.
+
+# =====================================
+
+### Meu Insta🌐: https://www.instagram.com/rafael.timoteo.r.h/
